@@ -1,1 +1,1 @@
-["redis-brain.coffee", "shipit.coffee"]
+["s3-brain.coffee", "shipit.coffee", "bij.coffee", "animal.coffee", "homer.coffee", "tweet-content.coffee"]
